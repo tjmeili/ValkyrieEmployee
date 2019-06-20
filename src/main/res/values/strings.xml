@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Valkyrie</string>
+    <string name="title_home">Home</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_timesheet">Timesheet</string>
+    <string name="tag_home_fragment">tag_home_fragment</string>
+    <string name="tag_schedule_fragment">tag_home_fragment</string>
+    <string name="tag_timesheet_fragment">tag_home_fragment</string>
+    <string name="host_home_computer">192.168.7.48</string>
+    <string name="tv_injury">Was today a safe work day?</string>
+
+
+</resources>
